@@ -64,7 +64,7 @@ Está disponível na pasta **./scripts/database-setup.sql** o script para realiz
 
 As funcionalidades descritas abaixo realizam as quatro operações **CRUD** (Create, Read, Update e Delete).
 
-- [Screenshots da aplicacão](https://github.com/leoduprates/php-travelers/tree/main/resources/screenshots).
+- [Screenshots da aplicacão](https://github.com/leoduprates/php-travelers/tree/main/resources/screenshots/application).
 
 ### Login
 
