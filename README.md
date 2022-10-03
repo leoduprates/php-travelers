@@ -37,7 +37,7 @@ php-travelers/
 
 ### MAMP Server
 
-1\. Instale o XAMPP Server.
+1\. Instale o MAMP Server.
 
 2\. Na tela "**Web Server**" selecione a pasta **./public**.
 
@@ -64,7 +64,7 @@ Está disponível na pasta **./scripts/database-setup.sql** o script para realiz
 
 As funcionalidades descritas abaixo realizam as quatro operações **CRUD** (Create, Read, Update e Delete).
 
-- [Screenshots da aplicacão]().
+- [Screenshots da aplicacão](https://github.com/leoduprates/php-travelers/tree/main/resources/screenshots).
 
 ### Login
 
