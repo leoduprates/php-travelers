@@ -1,0 +1,58 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #edeff7;
+}
+
+.text-color {
+  color: #494368;
+}
+
+.form-login {
+  flex-basis: 450px;
+  background-color: #f7f8fd;
+  padding: 20px;
+  border-radius: 13px;
+  box-shadow: 5px 5px 55px #ced5f2, -5px -5px 55px #ffffff;
+}
+
+.card {
+  background-color: transparent;
+  border: 0px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+  border: 0px;
+}
+
+.custom-input {
+  border: 1px solid #d8dbe5;
+  color: #67686c;
+  background-color: #edeff7;
+}
+
+.label-color {
+  color: #888fac;
+}
+
+.card-footer {
+  background-color: transparent;
+  border: 0px;
+  display: flex;
+}
+
+.login-button {
+  background-color: #494368;
+  width: 100%;
+  border: none;
+  height: calc(3.5rem + 2px);
+}
+
+.login-button:hover {
+  background-color: #3d3857 !important;
+}

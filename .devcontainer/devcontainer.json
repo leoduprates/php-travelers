@@ -1,0 +1,15 @@
+{
+  "name": "Existing Docker Compose (Extend)",
+  "dockerComposeFile": "./docker-compose.yml",
+  "service": "php",
+  "shutdownAction": "stopCompose",
+  "workspaceFolder": "/var/www/html",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "bmewburn.vscode-intelephense-client"
+      ]
+    }
+  }
+}
